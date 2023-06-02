@@ -1,2 +1,2 @@
-# google.collab
+# google.colab
 my selection of notebooks!
